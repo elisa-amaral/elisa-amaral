@@ -1,4 +1,5 @@
 - 👋 Hello! My name is Elisa Amaral
+- :mortar_board: I'm a Bachelor of Science in Information Systems
 - :globe_with_meridians: I'm currently looking for a remote job opportunity, Part-Time or Full-Time
 - :speech_balloon: I speak in English (fluent), French (fluent) and Portuguese (native)
 - :computer: I've coded over 20 personal projects focusing on Front-End and Back-End Development (available on my [GitHub Repositories](https://github.com/elisa-amaral?tab=repositories))
