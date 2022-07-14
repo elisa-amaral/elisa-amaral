@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Elisa Amaral
-- - :eyes: I'm currently looking for a remote job opportunity, Part-Time or Full-Time.
+-:eyes: I'm currently looking for a remote job opportunity, Part-Time or Full-Time.
 -:speech_balloon: I speak in English (fluent), French (fluent) and Portuguese (native)
 - :computer: I've coded over 20 personal projects focusing on Front-End and Back-End Development (available on my[Repositories](https://github.com/elisa-amaral?tab=repositories))
 - 📫 How to reach me: mail.amaralelisa@gmail.com
