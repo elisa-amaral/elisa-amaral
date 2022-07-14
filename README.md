@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Elisa Amaral
 - 👀 I’m interested in Front-End and Back-End Development
 - 🌱 I’m currently learning Full Stack JavaScript
+- :computer:
 - 📫 How to reach me: mail.amaralelisa@gmail.com
 
 <!---
