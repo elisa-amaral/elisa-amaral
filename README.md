@@ -1,16 +1,23 @@
-### Hi there 👋
+👋 Hello! My name is Elisa Amaral. 
+\
+\
+🎓 My academic degree:
+\
+• Bachelor of Science in Information Systems by the State University of Montes Claros (UNIMONTES, Montes Claros, Brazil)  
+• Certified Internet Computing Technician by the Educational Foundation of Montes Claros (FEMC, Montes Claros, Brazil)
+\
+\
+💬 Languages I speak:
+\
+• English (upper-advanced)
+\
+• Spanish (upper-intermediate)
+\
+• Portuguese (native)  
+\
+🌐 I'm also on **[LinkedIn](https://www.linkedin.com/in/elisa-amaral/)**
 
-<!--
-**elisa-amaral/elisa-amaral** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!---
+elisa-amaral/elisa-amaral is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
