@@ -1,4 +1,4 @@
-👋 Hello! My name is Elisa Amaral. 
+👋 Hello! My name is Elisa Amaral, Technology Analyst @ Federal Data Processing Service of Brazil (SERPRO)
 \
 \
 🎓 My academic degree:
