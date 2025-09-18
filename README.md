@@ -4,7 +4,6 @@
 🎓 My academic degree:
 \
 • Bachelor of Science in Information Systems by the State University of Montes Claros (UNIMONTES, Montes Claros, Brazil)  
-• Certified Internet Computing Technician by the Educational Foundation of Montes Claros (FEMC, Montes Claros, Brazil)
 \
 \
 💬 Languages I speak:
